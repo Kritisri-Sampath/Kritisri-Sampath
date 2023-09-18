@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kritisri-Sampath
 - 👀 I’m interested in Webdevelopment
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on minimal projects
-- 📫 How to reach me
+- 💞️ I’m looking to collaborate on minimal project.
 - you can reach me on linked in https://www.linkedin.com/in/kritisri-sampath-kumar/
 
 <!---
