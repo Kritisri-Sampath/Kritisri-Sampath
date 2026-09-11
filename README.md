@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @Kritisri-Sampath
-- linkedin: https://www.linkedin.com/in/kritisri-sampath-kumar/
+Hi 👋 I'm Kritisri Sampath Kumar
+
+🎓 Computer Science & Design Student
+💻 Aspiring Software Developer
+🚀 Building web applications, AI-powered tools & immersive experiences
+
+Tech: Java • React • Spring Boot • JavaScript • SQL • AI • Salesforce
+
+🔭 Currently working on StudyGenie & Medication Tracker
+🌱 Learning Spring Boot, Salesforce & DSA
+📫 Let's connect on LinkedIn https://www.linkedin.com/in/kritisri-sampath-kumar/
 
 <!---
 Kritisri-Sampath/Kritisri-Sampath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
