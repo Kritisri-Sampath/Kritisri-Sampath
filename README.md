@@ -4,10 +4,10 @@ Hi 👋 I'm Kritisri Sampath Kumar
 💻 Aspiring Software Developer
 🚀 Building web applications, AI-powered tools & immersive experiences
 
-Tech: Java • React • Spring Boot • JavaScript • SQL • AI • Salesforce
+Tech: Java • SQL(basics) • AI(fundamentals) • Salesforce
 
 🔭 Currently working on StudyGenie & Medication Tracker
-🌱 Learning Spring Boot, Salesforce & DSA
+🌱 Learning Salesforce & DSA
 📫 Let's connect on LinkedIn https://www.linkedin.com/in/kritisri-sampath-kumar/
 
 <!---
